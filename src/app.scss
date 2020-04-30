@@ -1,0 +1,11 @@
+$highlight-color: brown;
+
+body {
+    background: url('images/background_paper.png');
+    padding: 0 20px; 
+}
+
+p {
+    font-size: 25px;
+    color: $highlight-color;
+}
